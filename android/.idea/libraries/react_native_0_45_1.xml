@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="react-native-0.45.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/6ef17043a0ea36c6fa6a5479e07220d9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/react-native-0.45.1.aar/6ef17043a0ea36c6fa6a5479e07220d9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

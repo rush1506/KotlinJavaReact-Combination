@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/thanhtam/Documents/tfl/react/node_modules/react-native-code-push/android/app/build/intermediates/intermediate-jars/debug/classes.jar
+FILE_HASH=f3ccedc0500c0226f33364569e6a389e87f92561
+DX_VERSION=1.13
+JUMBO_MODE=false
+OPTIMIZE=true
